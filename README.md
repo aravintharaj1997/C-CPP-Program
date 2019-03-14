@@ -1,2 +1,2 @@
-# C-Program
-Basic C programs
+# C/CPP-Program
+Basic C/CPP programs
